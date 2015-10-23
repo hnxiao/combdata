@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml>
+ <key id='nodeKey1'
+     for='node'
+     attr.name='VertexCoordinates'
+     attr.type='String' />
+ <graph id='Graph1'
+     edgedefault='directed'>
+  <node id='1'>
+   <data key='nodeKey1'>List[1.2012664779215585`, 0.4023509483977131`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[0.5758798401802765`, 0.`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[0.`, 0.46899325837376127`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[1.0112697046845898`, 1.121753274265664`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.26912943659684363`, 1.1624270809610118`]</data>
+  </node>
+  <edge id='Graph1-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph1-e2'
+      source='2'
+      target='3' />
+  <edge id='Graph1-e3'
+      source='3'
+      target='4' />
+  <edge id='Graph1-e4'
+      source='4'
+      target='5' />
+  <edge id='Graph1-e5'
+      source='5'
+      target='1' />
+  <edge id='Graph1-e6'
+      source='2'
+      target='5' />
+  <edge id='Graph1-e7'
+      source='3'
+      target='1' />
+  <edge id='Graph1-e8'
+      source='4'
+      target='2' />
+  <edge id='Graph1-e9'
+      source='5'
+      target='3' />
+  <edge id='Graph1-e10'
+      source='1'
+      target='4' />
+ </graph>
+ <graph id='Graph2'
+     edgedefault='directed'>
+  <node id='1'>
+   <data key='nodeKey1'>List[0.20670218456150724`, 1.1307510008998691`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.9488808803907464`, 1.1548065366341085`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[0.`, 0.4151546913084959`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[0.6155115034008064`, 0.`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[1.2032627850993722`, 0.45581497616596467`]</data>
+  </node>
+  <edge id='Graph2-e1'
+      source='1'
+      target='4' />
+  <edge id='Graph2-e2'
+      source='4'
+      target='3' />
+  <edge id='Graph2-e3'
+      source='3'
+      target='2' />
+  <edge id='Graph2-e4'
+      source='2'
+      target='1' />
+  <edge id='Graph2-e5'
+      source='2'
+      target='5' />
+  <edge id='Graph2-e6'
+      source='4'
+      target='5' />
+  <edge id='Graph2-e7'
+      source='5'
+      target='1' />
+  <edge id='Graph2-e8'
+      source='5'
+      target='3' />
+  <edge id='Graph2-e9'
+      source='1'
+      target='3' />
+  <edge id='Graph2-e10'
+      source='2'
+      target='4' />
+ </graph>
+ <graph id='Graph3'
+     edgedefault='directed'>
+  <node id='1'>
+   <data key='nodeKey1'>List[0.9371255505754572`, 0.`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.1957103408408294`, 0.034764175934528296`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[1.2021775770980523`, 0.6950690092301355`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[0.`, 0.7532465060190198`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.6220664912401833`, 1.1600191423645085`]</data>
+  </node>
+  <edge id='Graph3-e1'
+      source='1'
+      target='4' />
+  <edge id='Graph3-e2'
+      source='4'
+      target='3' />
+  <edge id='Graph3-e3'
+      source='3'
+      target='2' />
+  <edge id='Graph3-e4'
+      source='2'
+      target='1' />
+  <edge id='Graph3-e5'
+      source='2'
+      target='5' />
+  <edge id='Graph3-e6'
+      source='4'
+      target='5' />
+  <edge id='Graph3-e7'
+      source='5'
+      target='1' />
+  <edge id='Graph3-e8'
+      source='5'
+      target='3' />
+  <edge id='Graph3-e9'
+      source='1'
+      target='3' />
+  <edge id='Graph3-e10'
+      source='4'
+      target='2' />
+ </graph>
+</graphml>
