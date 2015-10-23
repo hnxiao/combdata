@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml>
+ <key id='nodeKey1'
+     for='node'
+     attr.name='VertexCoordinates'
+     attr.type='String' />
+ <graph id='Graph1'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[0.7745966692414834`, 0.7745966692414834`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[0.`, 0.`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[0.7745966692414834`, 0.`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[1.5491933384829668`, 0.`]</data>
+  </node>
+  <edge id='Graph1-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph1-e2'
+      source='1'
+      target='3' />
+  <edge id='Graph1-e3'
+      source='1'
+      target='4' />
+ </graph>
+ <graph id='Graph2'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[2.917586633780658`, 0.6109998252097681`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[2.214523124875485`, 0.`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[1.8301247655560038`, 0.7391776986868248`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[1.0877559979926965`, 0.162632031233995`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.7037028643683104`, 0.9024480340851279`]</data>
+  </node>
+  <node id='6'>
+   <data key='nodeKey1'>List[0.`, 0.29038314694184364`]</data>
+  </node>
+  <edge id='Graph2-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph2-e2'
+      source='1'
+      target='3' />
+  <edge id='Graph2-e3'
+      source='2'
+      target='3' />
+  <edge id='Graph2-e4'
+      source='2'
+      target='4' />
+  <edge id='Graph2-e5'
+      source='3'
+      target='4' />
+  <edge id='Graph2-e6'
+      source='3'
+      target='5' />
+  <edge id='Graph2-e7'
+      source='4'
+      target='5' />
+  <edge id='Graph2-e8'
+      source='4'
+      target='6' />
+  <edge id='Graph2-e9'
+      source='5'
+      target='6' />
+ </graph>
+ <graph id='Graph3'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[1.3565053868329287`, 0.`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[0.2807845765499518`, 0.05307914632239619`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[0.`, 1.094088288402175`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.9019530139671753`, 1.6815654434012761`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[1.7410410573657098`, 1.00636716350417`]</data>
+  </node>
+  <node id='6'>
+   <data key='nodeKey1'>List[0.8560870423853608`, 0.765963219910292`]</data>
+  </node>
+  <edge id='Graph3-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph3-e2'
+      source='2'
+      target='3' />
+  <edge id='Graph3-e3'
+      source='3'
+      target='4' />
+  <edge id='Graph3-e4'
+      source='4'
+      target='5' />
+  <edge id='Graph3-e5'
+      source='1'
+      target='5' />
+  <edge id='Graph3-e6'
+      source='1'
+      target='6' />
+  <edge id='Graph3-e7'
+      source='2'
+      target='6' />
+  <edge id='Graph3-e8'
+      source='3'
+      target='6' />
+  <edge id='Graph3-e9'
+      source='4'
+      target='6' />
+  <edge id='Graph3-e10'
+      source='5'
+      target='6' />
+ </graph>
+ <graph id='Graph4'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[0.7141031057382552`, 1.1695150906832827`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[1.8855172204688093`, 1.062213178182417`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[1.1639675468453905`, 0.7028786931171843`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.`, 0.7045690294241636`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.5584022933514685`, 0.`]</data>
+  </node>
+  <node id='6'>
+   <data key='nodeKey1'>List[1.71191798864146`, 0.00515201481546268`]</data>
+  </node>
+  <edge id='Graph4-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph4-e2'
+      source='1'
+      target='3' />
+  <edge id='Graph4-e3'
+      source='1'
+      target='4' />
+  <edge id='Graph4-e4'
+      source='1'
+      target='5' />
+  <edge id='Graph4-e5'
+      source='2'
+      target='3' />
+  <edge id='Graph4-e6'
+      source='2'
+      target='6' />
+  <edge id='Graph4-e7'
+      source='3'
+      target='4' />
+  <edge id='Graph4-e8'
+      source='3'
+      target='6' />
+  <edge id='Graph4-e9'
+      source='4'
+      target='5' />
+  <edge id='Graph4-e10'
+      source='5'
+      target='6' />
+ </graph>
+ <graph id='Graph5'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[1.0664925328896737`, 1.315089029137275`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[2.1391116885141943`, 0.4920789783353785`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[1.571167872241688`, 0.8029142144156606`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.5841621962597487`, 0.7798504805334121`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.`, 0.4993945305098688`]</data>
+  </node>
+  <node id='6'>
+   <data key='nodeKey1'>List[1.075474571577744`, 0.`]</data>
+  </node>
+  <edge id='Graph5-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph5-e2'
+      source='1'
+      target='3' />
+  <edge id='Graph5-e3'
+      source='1'
+      target='4' />
+  <edge id='Graph5-e4'
+      source='1'
+      target='5' />
+  <edge id='Graph5-e5'
+      source='2'
+      target='3' />
+  <edge id='Graph5-e6'
+      source='2'
+      target='6' />
+  <edge id='Graph5-e7'
+      source='3'
+      target='4' />
+  <edge id='Graph5-e8'
+      source='3'
+      target='6' />
+  <edge id='Graph5-e9'
+      source='4'
+      target='5' />
+  <edge id='Graph5-e10'
+      source='4'
+      target='6' />
+  <edge id='Graph5-e11'
+      source='5'
+      target='6' />
+ </graph>
+ <graph id='Graph6'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[0.029428939429640755`, 0.051322365605305564`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[1.3692225488067897`, 0.`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[1.0233975107600803`, 0.5293029461927784`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.5961330680528953`, 1.0657893298182781`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.`, 1.007101570949502`]</data>
+  </node>
+  <node id='7'>
+   <data key='nodeKey1'>List[0.6115873981714582`, 0.1354244067821873`]</data>
+  </node>
+  <node id='6'>
+   <data key='nodeKey1'>List[1.3412935501038263`, 1.1395183884644744`]</data>
+  </node>
+  <edge id='Graph6-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph6-e2'
+      source='1'
+      target='3' />
+  <edge id='Graph6-e3'
+      source='1'
+      target='4' />
+  <edge id='Graph6-e4'
+      source='1'
+      target='5' />
+  <edge id='Graph6-e5'
+      source='1'
+      target='7' />
+  <edge id='Graph6-e6'
+      source='2'
+      target='3' />
+  <edge id='Graph6-e7'
+      source='2'
+      target='4' />
+  <edge id='Graph6-e8'
+      source='2'
+      target='6' />
+  <edge id='Graph6-e9'
+      source='2'
+      target='7' />
+  <edge id='Graph6-e10'
+      source='3'
+      target='5' />
+  <edge id='Graph6-e11'
+      source='3'
+      target='6' />
+  <edge id='Graph6-e12'
+      source='3'
+      target='7' />
+  <edge id='Graph6-e13'
+      source='4'
+      target='5' />
+  <edge id='Graph6-e14'
+      source='4'
+      target='6' />
+  <edge id='Graph6-e15'
+      source='4'
+      target='7' />
+  <edge id='Graph6-e16'
+      source='5'
+      target='6' />
+  <edge id='Graph6-e17'
+      source='5'
+      target='7' />
+  <edge id='Graph6-e18'
+      source='6'
+      target='7' />
+ </graph>
+ <graph id='Graph7'
+     edgedefault='undirected'>
+  <node id='1'>
+   <data key='nodeKey1'>List[2.0295561007757144`, 0.6254894018745311`]</data>
+  </node>
+  <node id='2'>
+   <data key='nodeKey1'>List[1.1478150971330647`, 0.033580669988533374`]</data>
+  </node>
+  <node id='3'>
+   <data key='nodeKey1'>List[1.145715874652037`, 1.2155042384467087`]</data>
+  </node>
+  <node id='4'>
+   <data key='nodeKey1'>List[0.8914927382058729`, 0.6237139221302516`]</data>
+  </node>
+  <node id='5'>
+   <data key='nodeKey1'>List[0.0013238424591288656`, 0.`]</data>
+  </node>
+  <node id='7'>
+   <data key='nodeKey1'>List[0.2374329227635349`, 0.6247787411453224`]</data>
+  </node>
+  <node id='6'>
+   <data key='nodeKey1'>List[0.`, 1.2476673694464653`]</data>
+  </node>
+  <edge id='Graph7-e1'
+      source='1'
+      target='2' />
+  <edge id='Graph7-e2'
+      source='1'
+      target='3' />
+  <edge id='Graph7-e3'
+      source='1'
+      target='4' />
+  <edge id='Graph7-e4'
+      source='2'
+      target='3' />
+  <edge id='Graph7-e5'
+      source='2'
+      target='4' />
+  <edge id='Graph7-e6'
+      source='2'
+      target='5' />
+  <edge id='Graph7-e7'
+      source='2'
+      target='7' />
+  <edge id='Graph7-e8'
+      source='3'
+      target='4' />
+  <edge id='Graph7-e9'
+      source='3'
+      target='6' />
+  <edge id='Graph7-e10'
+      source='3'
+      target='7' />
+  <edge id='Graph7-e11'
+      source='4'
+      target='5' />
+  <edge id='Graph7-e12'
+      source='4'
+      target='6' />
+  <edge id='Graph7-e13'
+      source='4'
+      target='7' />
+  <edge id='Graph7-e14'
+      source='5'
+      target='6' />
+  <edge id='Graph7-e15'
+      source='5'
+      target='7' />
+  <edge id='Graph7-e16'
+      source='6'
+      target='7' />
+ </graph>
+</graphml>
